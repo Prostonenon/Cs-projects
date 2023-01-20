@@ -1,0 +1,162 @@
+[
+    {
+      "name": "G. T. Dubua",
+      "fullName": "Garry Tecilla Dubua",
+      "age": 45,
+      "yearsOfTeaching": 20,
+      "students": [
+        {
+          "name": "J. Silverhand",
+          "fullName": "Johny Silverhand",
+          "email": "examexample24@gmail.com",
+          "age": 20,
+          "course": 4,
+          "courseWorks": [
+            {
+              "subject": "History",
+              "date": "15.01.2023"
+            },
+            {
+              "subject": "Math",
+              "date": "02.02.2023"
+            }
+          ],
+          "grade": 60
+        },
+        {
+          "name": "J. Shepard",
+          "fullName": "John Shepard",
+          "email": "ishouldgo@gmail.com",
+          "age": 21,
+          "course": 4,
+          "courseWorks": [
+            {
+              "subject": "Physics",
+              "date": "22.01.2023"
+            },
+            {
+              "subject": "Math",
+              "date": "02.02.2023"
+            }
+          ],
+          "grade": 100
+        },
+        {
+          "name": "V. C. Blackhand",
+          "fullName": "Victoria Caroline Blackhand",
+          "email": "whiteleg@gmail.com",
+          "age": 18,
+          "course": 3,
+          "courseWorks": [
+            {
+              "subject": "English",
+              "date": "18.01.2023"
+            },
+            {
+              "subject": "Math",
+              "date": "02.02.2023"
+            }
+          ],
+          "grade": 70
+        }
+      ]
+    },
+    {
+      "name": "W. H. White",
+      "fullName": "Walter Hartwell White",
+      "age": 50,
+      "yearsOfTeaching": 30,
+      "students": [
+        {
+          "name": "J. B. Pinkman",
+          "fullName": "Josse Bruce Pinkman",
+          "email": "sciencebitch@gmail.com", 
+          "age": 19,
+          "course": 2,
+          "courseWorks": [
+            {
+              "subject": "Chemistry",
+              "date": "30.01.2023"
+            }
+          ],
+          "grade": 45
+        },
+        {
+          "name": "C. Collins",
+          "fullName": "Caroline Collins",
+          "email": "cakeisalie@gmail.com",
+          "age": 18,
+          "course": 1,
+          "courseWorks": [
+            {
+              "subject": "History",
+              "date": "20.01.2023"
+            },
+            {
+              "subject": "Chemistry",
+              "date": "30.01.2023"
+            }
+          ],
+          "grade": 85
+        },
+        {
+          "name": "R. T. Gosling",
+          "fullName": "Ryan Thomas Gosling",
+          "email": "silence2049@gmail.com",
+          "age": 21,
+          "course": 4,
+          "courseWorks": [
+            {
+              "subject": "Math",
+              "date": "21.01.2023"
+            }
+          ],
+          "grade": 100
+        }
+      ]
+    },
+    {
+      "name": "H. Landa",
+      "fullName": "Hanz Landa",
+      "age": 52,
+      "yearsOfTeaching": 18,
+      "students": [
+        {
+          "name": "H. C. Erston",
+          "fullName": "Hue Colins Erston",
+          "email": "justhue@gmail.com",
+          "age": 17,
+          "course": 1,
+          "courseWorks": [
+            {
+              "subject": "Deutch",
+              "date": "01.02.2023"
+            }
+          ],
+          "grade": 72
+        },
+        {
+          "name": "E. M. Parker",
+          "fullName": "Ellis March Parker",
+          "email": "emparker2004@gmail.com", 
+          "age": 18,
+          "course": 1,
+          "courseWorks": [
+            {
+              "subject": "Chemistry",
+              "date": "28.01.2023"
+            },
+            {
+              "subject": "Deutch",
+              "date": "03.02.2023"
+            },
+            {
+              "subject": "Math",
+              "date": "20.01.2023"
+            }
+          ],
+          "grade": 45
+        }
+      ]
+    }
+  ]

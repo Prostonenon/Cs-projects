@@ -1,0 +1,73 @@
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\bin\Debug\TeachersAndStudents.exe.config
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\bin\Debug\TeachersAndStudents.exe
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\bin\Debug\TeachersAndStudents.pdb
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.csproj.AssemblyReference.cache
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.Form1.resources
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.Properties.Resources.resources
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.csproj.GenerateResource.cache
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.csproj.CoreCompileInputs.cache
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.exe
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.pdb
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\bin\Debug\System.Buffers.dll
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\bin\Debug\System.Memory.dll
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\bin\Debug\System.Net.Http.Json.dll
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\bin\Debug\System.Text.Json.dll
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\bin\Debug\System.ValueTuple.dll
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\bin\Debug\System.Buffers.xml
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\bin\Debug\System.Memory.xml
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\bin\Debug\System.Net.Http.Json.xml
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\bin\Debug\System.Text.Json.xml
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\bin\Debug\System.ValueTuple.xml
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.csproj.CopyComplete
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.TeacherConstruct.resources
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.StudentConstruct.resources
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.StudentInformation.resources
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.GridViewForm.resources
+C:\Users\timof\source\repos\TeachersAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.Graph.resources
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\bin\Debug\TeachersAndStudents.exe.config
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\bin\Debug\TeachersAndStudents.exe
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\bin\Debug\TeachersAndStudents.pdb
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\bin\Debug\System.Buffers.dll
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\bin\Debug\System.Memory.dll
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\bin\Debug\System.Net.Http.Json.dll
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\bin\Debug\System.Text.Json.dll
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\bin\Debug\System.ValueTuple.dll
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\bin\Debug\System.Buffers.xml
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\bin\Debug\System.Memory.xml
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\bin\Debug\System.Net.Http.Json.xml
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\bin\Debug\System.Text.Json.xml
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\bin\Debug\System.ValueTuple.xml
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.csproj.AssemblyReference.cache
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.csproj.SuggestedBindingRedirects.cache
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.Graph.resources
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.GridViewForm.resources
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.StudentConstruct.resources
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.StudentInformation.resources
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.TeacherConstruct.resources
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.Form1.resources
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.Properties.Resources.resources
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.csproj.GenerateResource.cache
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.csproj.CoreCompileInputs.cache
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.csproj.CopyComplete
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.exe
+C:\Users\Николай\OneDrive\Робочий стіл\Exama\TeacherAndStudents\TeachersAndStudents\obj\Debug\TeachersAndStudents.pdb
