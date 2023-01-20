@@ -1,8 +1,0 @@
-C:\Users\Николай\OneDrive\Робочий стіл\C# KSU\test\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.AssemblyReference.cache
-C:\Users\Николай\OneDrive\Робочий стіл\C# KSU\test\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.SuggestedBindingRedirects.cache
-C:\Users\Николай\OneDrive\Робочий стіл\C# KSU\test\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
-C:\Users\Николай\OneDrive\Робочий стіл\C# KSU\test\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
-C:\Users\Николай\OneDrive\Робочий стіл\C# KSU\test\FirstProject\FirstProject\bin\Debug\FirstProject.exe
-C:\Users\Николай\OneDrive\Робочий стіл\C# KSU\test\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
-C:\Users\Николай\OneDrive\Робочий стіл\C# KSU\test\FirstProject\FirstProject\obj\Debug\FirstProject.exe
-C:\Users\Николай\OneDrive\Робочий стіл\C# KSU\test\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
